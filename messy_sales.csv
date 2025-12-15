@@ -1,0 +1,16 @@
+ID,Name,Age,City,Sales,Date
+1,John Smith,29,new york,250.0,2024-01-05
+2,jane smith,,New York,300.0,2024-02-10
+3,"Mike,Lee",41,los angeles,400.0,2024/03/15
+4,Sara Khan,-,Chicago,500.0,15-04-2024
+5,John Smith,29,New York,250.0,2024-01-05
+6,L. Patel,35,San fransc.,,2024-06-12
+7,Anita   Sharma,27,chennai,700.0,2024.07.18
+8,Robert Jr.,42,Delhi,800.0,07-08-2024
+9,michael,30,los angles,900.0,2024-09-25
+10,NA,33,Banglore,1000.0,25/10/2024
+11,John Smith,29,newyork,250.0,2024-01-05
+12,  Emily ,,mumbai,1100.0,2024-11-30
+13,DAVID,38,delhi,1200.0,"Dec 05, 2024"
+14,Sophia@,,Delhi ,,2024-13-01
+15,Chris P.,25, san francisco,1400.0,2025-01-15
